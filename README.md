@@ -1,12 +1,12 @@
-##LoRa OCCAM API README
+# LoRa OCCAM API README
 
-#What is it?
+## What is it?
 
 The LoRa OCCAM API provides a set of tools to help you customize and develop your LoRa mPCIe Smart Gateway card. It will show how to navigate the communication protocols using Python to send and receive data packages from the module to the LoRa mPCIe card. 
 
 The goal of this package is to provide all the tools needed for you to set up and customize your LoRa mPCIe Smart Gateway card for your own application. 
 
-#Initial Set-up
+## Initial Set-up
 
 You will need to install Python 3 prior to following this guide.
 
@@ -16,7 +16,7 @@ Please refer to Logic Supply’s LoRa mPCIe Smart Gateway card manual for inform
 
 After making all the necessary downloads, launch the Python shell.
 
-#Applications
+## Applications
 
 The LoRa OCCAM API follows the LoRa communication protocol to send and receive data packets between the card and module. These include, but are not limited to:
 
@@ -40,11 +40,11 @@ RECEIVE Command Data Packets
 
 These data packets can be modified based on application and sent to the LoRa card. 
 
-#Support Limitations
+## Support Limitations
 Currently there is no support for the Windows OS on the OCCAM front end. Initial installation instructions such as web interface and device setup can only be done using the Linux operating system.
 
 The data packets and commands list can be worked with in both the Linux and Windows operating systems using a serial interactive program such as, but not limited to, Python, C, and Javascript.
-#Additional Resources
+## Additional Resources
 For additional information about LoRa mPCIe Smart Gateway card, please visit the official OCCAMSMART LoRa page.
 
 
