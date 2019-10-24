@@ -12,7 +12,7 @@ You will need to install Python 3 prior to following this guide.
 
 For reference, it will be helpful to follow the OCCAMSMART command reference guide for a complete list of SEND and RECEIVE commands. 
 
-Please refer to Logic Supply’s LoRa mPCIe Smart Gateway card manual for information on how to install the LoRaWAN Network Stack and setup your LoRa device. 
+Please refer to OnLogic’s LoRa mPCIe Smart Gateway card manual for information on how to install the LoRaWAN Network Stack and setup your LoRa device. 
 
 After making all the necessary downloads, launch the Python shell.
 
